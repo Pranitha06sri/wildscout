@@ -5,7 +5,8 @@
 Scout → Identify → WildSafe → Learn → Touch Grass
 
 Initial Python/FastAPI backend using local Ollama **qwen3-vl:2b**. No cloud AI,
-database, authentication, location tracking or Flutter frontend.
+database, authentication or location tracking. The Flutter mobile companion is in
+[`mobile/`](mobile/README.md), with sample mode enabled by default for development.
 
 ## Run locally
 
